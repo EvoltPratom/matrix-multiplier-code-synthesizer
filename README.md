@@ -15,4 +15,4 @@
 <h3> This will generate nndotproduct.vhd and nnmatmul.vhd files</h3>
 <h3> Which can be used in your project </h3>
 
-(This requires mul2.vhd mul4.vhd mul8.vhd add6.vhd add8.vhd add12.vhd add16.vhd files to work which is provided )
+(This requires mul2.vhd mul4.vhd mul8.vhd add6.vhd add8.vhd add12.vhd add16.vhd add32.vhd files to work which is provided )
